@@ -154,37 +154,6 @@
 
 </div>
 
-## **Core Focus Areas**
-
-<div align="center">
-  
-**`System Programming`** • **`Web Development`** • **`Problem Solving`** • **`Software Architecture`**
-
-```javascript
-class Developer {
-    public Developer() {
-        this.name = "Mukesh SM";
-        this.role = "Software Developer";
-        this.languages = ["Python", "C", "Java"];
-        this.currentlyLearning = "Java (going deeper!)";
-        this.nextGoals = ["PHP", "Tailwind", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB"];
-        this.currentFocus = "Building cool stuff with Java";
-        this.approach = "Clean code, optimal performance";
-    }
-    
-    getCurrentStatus() {
-        return {
-            learning: "Advanced Programming Concepts",
-            working: "Full-Stack Development Projects", 
-            exploring: "System Architecture & Design Patterns"
-        };
-    }
-}
-```
-
-</div>
-
----
 
 ## **Professional Summary**
 
